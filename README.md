@@ -10,7 +10,8 @@
 ### Usage/Testing
     clone this repository using: https://github.com/Anyungu/CommandLineRunnerCurrencyCheck.git
     go to the project directory using cd command
-    run the following command at the root of the project: mvn spring-boot:run
+    run the following command at the root of the project to install the app: mvn clean install
+    now run this command to start the application: mvn spring-boot:run
 
 ### Process Flow Theory/Design Theory
     get the user input
