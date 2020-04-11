@@ -8,6 +8,6 @@
     Install maven to the host machine
     
 ### Usage/Testing
-    clone this repository
+    clone this repository using: https://github.com/Anyungu/CommandLineRunnerCurrencyCheck.git
     go to the project directory using cd command
     run the following command at the root of the project: mvn spring-boot:run
